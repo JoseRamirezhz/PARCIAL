@@ -1,0 +1,6 @@
+c:\users\lab3\documents\visual studio 2013\Projects\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.pdb
